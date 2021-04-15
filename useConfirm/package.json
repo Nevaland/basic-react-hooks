@@ -1,0 +1,26 @@
+{
+  "name": "@neva-hooks/use-confirm",
+  "version": "1.0.0",
+  "description": "React Hook to use confirm method in windows",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nevaland/basic-react-hooks.git"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "confirm",
+    "windows"
+  ],
+  "author": "Neva <deanh0716@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nevaland/basic-react-hooks/issues"
+  },
+  "homepage": "https://github.com/Nevaland/basic-react-hooks#readme",
+  "peerDependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
